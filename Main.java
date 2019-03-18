@@ -2,7 +2,15 @@ package com.company;
 
 import java.util.ArrayList;
 import java.util.Scanner;
-
+/* 
+Project: wills pizza
+Purpose Details:pizza shop app
+Course:IST 242
+Author: Wilmer Monsalve
+Date Developed:3/14/19
+Last Date Changed:3/17/10
+Revision:2
+*/
 public class Main {
 
     public static void main(String[] args) {
